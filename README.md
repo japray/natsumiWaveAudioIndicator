@@ -14,6 +14,6 @@ wave.svg on chrome resources folder (about:profiles => Open profile folder => ch
 ![Recording 2026-02-15 170606](https://github.com/user-attachments/assets/46220dfa-8260-4317-b359-ed8494e31ab8)
 
 
-Inspired on:
+Based on:
 
 https://github.com/Kaedriz/ZenMods/tree/main/AudioIndicatorEnhanced
